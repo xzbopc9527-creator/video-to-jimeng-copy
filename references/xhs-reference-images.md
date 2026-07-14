@@ -17,6 +17,8 @@ Example:
 
 Avoid generic searches such as only a brand name. Search for the visual evidence the prompt needs: product shape, hand interaction, packaging, store layout, outfit, or lighting.
 
+Treat original source-video keyframes as the authority for identity, composition, quantity, scale, placement, food geometry, and packaging. Xiaohongshu images are supplemental detail references only. Never let a third-party image override a source keyframe or introduce a different face, portion size, product variant, plating arrangement, color, or lighting direction.
+
 ## 2. Access rules
 
 - Access only public search results and public notes.
